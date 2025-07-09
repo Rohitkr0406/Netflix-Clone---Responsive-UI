@@ -629,5 +629,6 @@ footer .footer-note a {
 	.hero-btns input[type="email"] {
 		width: 100%;
 		height: 57px;
+		padding: 10px;
 	}
 }
