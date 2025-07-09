@@ -109,4 +109,4 @@ If you found this project helpful, give it a ⭐ and share the clone with your d
 
 ---
 
-**Made with 💖 by Rohit**
+**Made by Rohit**
